@@ -1,0 +1,3 @@
+﻿# 质量根因 Agent System Prompt 模板
+# TODO: 填充 5W1H 分析提示词
+

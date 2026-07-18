@@ -1,0 +1,3 @@
+# edge_node 运行时（Jetson / 本地 smoke）；与仓库根 requirements 独立安装
+grpcio>=1.60
+protobuf>=4.25

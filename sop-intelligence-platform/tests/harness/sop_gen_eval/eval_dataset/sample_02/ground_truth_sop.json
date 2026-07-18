@@ -1,0 +1,11 @@
+{
+  "product_id": "EVAL-SAMPLE-02",
+  "description": "与 MockVideoParser 固定分段对齐",
+  "steps": [
+    {"step_id": 1, "action_type": "pick_up_bolt", "video_timestamp": 0.0},
+    {"step_id": 2, "action_type": "align_component", "video_timestamp": 0.53},
+    {"step_id": 3, "action_type": "tighten_bolt", "video_timestamp": 1.6},
+    {"step_id": 4, "action_type": "inspect_connection", "video_timestamp": 2.67},
+    {"step_id": 5, "action_type": "place_component", "video_timestamp": 3.73}
+  ]
+}

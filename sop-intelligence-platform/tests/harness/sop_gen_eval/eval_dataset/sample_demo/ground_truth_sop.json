@@ -1,0 +1,10 @@
+{
+  "product_id": "NCM811-DEMO",
+  "description": "电池包装配 4 步骤 — 与 DemoVideoParser 规则分段对齐",
+  "steps": [
+    {"step_id": 1, "action_type": "module_placement", "video_timestamp": 0.0},
+    {"step_id": 2, "action_type": "busbar_connection", "video_timestamp": 18.0},
+    {"step_id": 3, "action_type": "thermal_management", "video_timestamp": 27.0},
+    {"step_id": 4, "action_type": "final_inspection", "video_timestamp": 40.0}
+  ]
+}

@@ -1,0 +1,11 @@
+pydantic>=2.0
+pydantic-settings>=2.0
+grpcio>=1.60
+protobuf>=4.25
+pytest>=7.0
+asyncpg>=0.29.0
+minio>=7.2.0
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+httpx>=0.25.0
+kafka-python>=2.0.2

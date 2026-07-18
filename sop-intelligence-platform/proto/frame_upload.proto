@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+package sop.edge.v1;
+
+// 边缘 → 服务端：UNCERTAIN 帧 JPEG 分片 + 元数据（与 docs/module-specs/compliance-service.md §2.1 对齐）
+
+enum ConfidenceLevel {
+  CONFIDENCE_LEVEL_UNSPECIFIED = 0;
+  COMPLIANT = 1;
+  UNCERTAIN = 2;
+  VIOLATION = 3;
+}
+
+message UncertainFrameMetadata {
+  string workstation_id = 1;
+  string sop_id = 2;
+  int32 sop_step = 3;
+  // ISO8601，含时区推荐（与 UncertainFrameUpload.captured_at 一致）
+  string captured_at = 4;
+  float edge_confidence = 5;
+  ConfidenceLevel edge_level = 6;
+  optional string fsm_state = 7;
+}
+
+message FrameUploadChunk {
+  oneof part {
+    UncertainFrameMetadata metadata = 1;
+    bytes jpeg_chunk = 2;
+  }
+}
+
+message UploadAck {
+  bool accepted = 1;
+  string message = 2;
+}
+
+service FrameUploadService {
+  // 首条须含 metadata，其后为零条或多条 jpeg_chunk；服务端拼帧后交给注入的 handler
+  rpc UploadUncertainFrame(stream FrameUploadChunk) returns (UploadAck);
+}

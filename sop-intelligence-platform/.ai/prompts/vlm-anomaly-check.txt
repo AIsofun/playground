@@ -1,0 +1,3 @@
+﻿# 异常判定 VLM Prompt 模板
+# TODO: 含 SOP 步骤上下文注入
+

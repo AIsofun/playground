@@ -1,0 +1,45 @@
+# ── Python ──────────────────────────────
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ── Node / frontend ─────────────────────
+node_modules/
+dist/
+.next/
+
+# ── IDE / OS ────────────────────────────
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ── Secrets ─────────────────────────────
+.env
+.env.local
+*.pem
+*.key
+
+# ── Large files (GitHub 100MB limit) ────
+# Model weights
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+*.onnx
+Vjepa2-practice/ptdir/
+# Datasets / archives
+dive-into-deep-learning-V2-note/d2l-zh.zip
+# Copyrighted textbook PDFs — do not publish to a public repo
+dive-into-deep-learning-V2-note/resource/*.pdf
+*.h5
+data/
+
+# ── Build artifacts ──────────────────────
+build/
+*.log

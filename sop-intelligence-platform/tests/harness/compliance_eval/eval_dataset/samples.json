@@ -1,0 +1,302 @@
+[
+  {
+    "id": "v000",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v001",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v002",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v003",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v004",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v005",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v006",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v007",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v008",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v009",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v010",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v011",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v012",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v013",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v014",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v015",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v016",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "v017",
+    "edge_s": 0.25,
+    "gold_violation": true,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c000",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c001",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c002",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c003",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c004",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c005",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c006",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c007",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c008",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c009",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c010",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c011",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c012",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c013",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c014",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c015",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c016",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c017",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c018",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c019",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c020",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c021",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c022",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c023",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "c024",
+    "edge_s": 0.85,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "u000",
+    "edge_s": 0.55,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "u001",
+    "edge_s": 0.55,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "u002",
+    "edge_s": 0.55,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "u003",
+    "edge_s": 0.55,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "u004",
+    "edge_s": 0.55,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "u005",
+    "edge_s": 0.55,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  },
+  {
+    "id": "u006",
+    "edge_s": 0.55,
+    "gold_violation": false,
+    "vlm_is_anomaly": false
+  }
+]
